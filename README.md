@@ -4,4 +4,12 @@
 ### Objective(s):
 1. In project 2 or assignment 2 the objective is to make a "Tamagotshi" app based on the popular 1990s virtual pet toy, named "Tamagotshi". This app should mimick the original toy's experience.
 2. The user must be able to take care of their virtual pet by performing tasks such as:
+* feeding the pet
+* playing with the pet
+* bathing the pet
+* taking the pet to sleep.
+* analysing the health status of the pet to assess their needs.
+
+  
+   
    
