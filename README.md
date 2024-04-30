@@ -15,6 +15,10 @@
     * The Eatery -( displays on the screen when users click the Eat button) - 
     * The games room -(displays on the screen when user clicks the play button) - "Pups just wanna have fun"
     * Sleep - ( displays on the screen when user clicks on the sleep button) - "Let Sleeping dogs lie."
+ 
+      ## Design considerations :
+  Considering the fact that I am a beginner in Mobile Application, I've made a simple design of the app so that user's action prompts are matched with a matching image displaying their actions.
+  The screen should not only display the image but must also show user the status update when the pet performs the action based on the user's input prompt. For example, when the user clicks on begin it should direct users to second activity which is called the eatery, upon arriving we should be confronted by the the "hunger" status of the pet to be at 10 or above signalling the pet being hungry. Once the user presses the feed button the "hunger" status should decrease to 0. 
 
   
    
