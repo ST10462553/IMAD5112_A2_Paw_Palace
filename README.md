@@ -1,4 +1,12 @@
 # Welcome
+
+## Table of contents:
+1. Welcome
+2. Objectives
+3. Examples of activities(to be expected) with their slogans
+4. Design Considerations
+5. Objective considerations
+
 ## Welcome to my second repository, named Paw_Palace. This project serves different objectives from the previous project (Historia- History app).
 
 ### Objective(s):
