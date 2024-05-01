@@ -21,5 +21,6 @@
   The screen should not only display the image but must also show user the status update when the pet performs the action based on the user's input prompt. For example, when the user clicks on begin it should direct users to second activity which is called the eatery, upon arriving we should be confronted by the the "hunger" status of the pet to be at 10 or above signalling the pet being hungry. Once the user presses the feed button the "hunger" status should decrease to 0. 
 
   
-   
+   # Objective considerations -
+  there must be data retrieval from the user clicking actions like fed, to do this I will attempt to add a textview and with this textview I will add the stats on the screen to display status levels as default before a user attends to them. For example - The pet's default hunger level will be 10, once the user selects "Feed" users must remain in "the eatery activity" but must also have the statistics awaiting them. In turn once the pet has been fed the stat "hunger" should decrease to a 0 showing that the pet has been fed.
    
