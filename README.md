@@ -31,4 +31,7 @@
   
    # Objective considerations -
   there must be data retrieval from the user clicking actions like fed, to do this I will attempt to add a textview and with this textview I will add the stats on the screen to display status levels as default before a user attends to them. For example - The pet's default hunger level will be 10, once the user selects "Feed" users must remain in "the eatery activity" but must also have the statistics awaiting them. In turn once the pet has been fed the stat "hunger" should decrease to a 0 showing that the pet has been fed.
+
+  # The path to get my application
+  app/src/main/java/com/example/pawpalace
    
