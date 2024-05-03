@@ -12,7 +12,9 @@ Hello, my name is Siyolise and this my second README file on Github. This one is
 8. My videos for Assignment 2 (on Youtube)
 9. Utilising Github and Github actions
 10. Creating a repository for your app on Github
-11.  Uploading or PUSHING the project from Android Studio to Github  
+11.  Uploading or PUSHING the project from Android Studio to Github
+12.  Images used on the app
+13.  Conclusion 
 
 ## Welcome to my second repository, named Paw_Palace. This project serves different objectives from the previous project (Historia- History app).Welcome to Project 2, your one-stop shop for utilizing Android Studio and Kotlin to create your own Tamagotchi application! This project is your step-by-step manual for learning app development while creating a cherished virtual pet experience. It was created with novices in mind.Start your adventure by mastering the foundations of Android Studio, the potent toolkit for creating Android apps. As you use code to bring your Tamagotchi to life, explore the expressive and simple Kotlin language.You'll learn the fundamentals of developing mobile apps while creating something enjoyable and nostalgic with concise explanations and practical exercises. Project 2 gives you the skills and information you need to make your own Tamagotchi app, regardless of your level of experience with programming.Get ready to unleash your creativity and watch your virtual pet thrive!
 
@@ -98,4 +100,5 @@ src =https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/277eb
 
 <img width="300" alt="playtime" src="https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/087d15cf-a9d3-416f-8a6f-f6dc4b3955b3">
 
-
+# Conclusion :
+Congratulations, you've reached the end of my README! which hopefully means you did not fall asleep halfway to the end. I hope readers gain an experience from this README which covered project 2 from IMAD5112. Thank you for reading.
