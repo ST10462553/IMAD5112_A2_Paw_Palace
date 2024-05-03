@@ -78,3 +78,4 @@ After finishing the design and coding process of the app, I then had to push the
 15. You will then be asked to login to Github or use a token, the choice is yours. (personally, I logged in)
 16. After logging in, select "push"
    
+# Images used on the app:
