@@ -1,5 +1,6 @@
 # Welcome
-Hello, my name is Siyolise and this my second README file on Github. This one is specifically made to document the making of project two for IMAD5112.
+Hello, my name is Siyolise and this my second README file on Github. This one is specifically made to document the making of project two for IMAD5112. Please look at the Table of contents below to view the contents covered on the README. Thank you.
+
 ## Table of contents:
 1. Welcome
 2. Objectives
