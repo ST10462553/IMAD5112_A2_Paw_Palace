@@ -37,11 +37,11 @@
 
 
    ## My experience during the process of doing Assignment 2:
-Learning from past mistakes is an important part of growth in any field, including application development. You may have faced challenges understanding button functions or objectives in your first mission. However, by revisiting these concepts, experimenting in Paw Palace and applying your knowledge, you have gained a deeper understanding and improved your skills.
+Learning from past mistakes is an important part of growth in any field, including application development.I may have faced challenges understanding button functions or objectives in my first mission. However, by revisiting these concepts, experimenting in Paw Palace and applying my knowledge, I have gained a deeper understanding and improved my skills.
 
-Also, as you mentioned to have a more complex design idea, it's important to consider the overall user experience (UX) and user interface (UI) of your app. Placement of buttons, colors, text and features affect how users use and perceive your app. Continuously honing your design skills and incorporating user feedback can lead to an improved and more engaging app.
+Also, as I mentioned to have a more complex design idea, it's important to consider the overall user experience (UX) and user interface (UI) of my app. Placement of buttons, colors, text and features affect how users use and perceive my app. Continuously honing my design skills and incorporating user feedback can lead to an improved and more engaging app.
 
-All in all, your journey in Paw Palace is one of growing and learning when implementing button actions with intents and the startActivity(intenc) method. This is a step towards creating a more functional, user-friendly and aesthetic application. Continue to explore new concepts, experiment and hone your skills to improve your application development skills
+All in all, my journey in Paw Palace is one of growing and learning when implementing button actions with intents and the startActivity(intent) method. This is a step towards creating a more functional, user-friendly and aesthetic application. I shall continue to explore new concepts, experiment and hone my skills to improve my application development skills.
 
 
 # My videos for Assignment 2 (on Youtube) :
