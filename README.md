@@ -59,4 +59,22 @@ After finishing the design and coding process of the app, I then had to push the
 2. Choose whether you would like the repository to be private or public(visibility)
 3. Add a README file (optional,but preferable)
 4. then click "create repository" (this finilises the creation of the repository).
+
+# Uploading or PUSHING the project from Android Studio to Github: 
+1. go to VCS (version control system) on Android Studio
+2. Enable version control integration
+3. A checkbox/ dropdown should appear, please ensure that Git is selected.
+4. click "ok"
+5. All files on android studio should turn red
+6. Go to the farleft of your screen on android studio, change "android" to "project".
+7. Right-click on the first folder you see.
+8. you should see options of your right after right-clicking the folder, select "Git"
+9. then "add" (this adds all files to version control system)
+10. Repeat step 6 and click "Git" again then select "commit directory".
+11. On the screen you should see a message saying "commit message"
+12. Simply type "Initial Commit" then select the "commit" button.
+13. "Find Git on the topmost of your android studio, then select "push"
+14. Define remote by copying and pasting the link to your repository on "define remote"
+15. You will then be asked to login to Github or use a token, the choice is yours. (personally, I logged in)
+16. After logging in, select "push"
    
