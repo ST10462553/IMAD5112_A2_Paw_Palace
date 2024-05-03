@@ -6,6 +6,12 @@
 3. Examples of activities(to be expected) with their slogans
 4. Design Considerations
 5. Objective considerations
+6. Application path
+7. My experience during the process of doing Assignment 2
+8. My videos for Assignment 2 (on Youtube)
+9. Utilising Github and Github actions
+10. Creating a repository for your app on Github
+11.  Uploading or PUSHING the project from Android Studio to Github  
 
 ## Welcome to my second repository, named Paw_Palace. This project serves different objectives from the previous project (Historia- History app).
 
