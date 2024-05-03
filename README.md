@@ -79,3 +79,6 @@ After finishing the design and coding process of the app, I then had to push the
 16. After logging in, select "push"
    
 # Images used on the app:
+![eat](https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/2b0230b6-2e63-4472-8899-58d1e97c8dca)
+
+
