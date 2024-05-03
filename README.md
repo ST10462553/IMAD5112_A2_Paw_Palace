@@ -1,5 +1,4 @@
 # Welcome
-
 ## Table of contents:
 1. Welcome
 2. Objectives
