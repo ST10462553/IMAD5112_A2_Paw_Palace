@@ -45,7 +45,7 @@ All in all, your journey in Paw Palace is one of growing and learning when im
 
 
 # My youtube videos for Assignment 2 on (Youtube) :
-The projects overview: <a href> https://youtu.be/Ux-jJ-vBrBw?si=EVF7qcjBMOr-pq5f </a>
-The app's design: <a href> https://youtu.be/Ux-jJ-vBrBw?si=Xt5_LekjBx5_BSm2 </a>
-The code: <a href> https://youtu.be/Q-nhc6-VVYA?si=bQvbWeRFrm82ZIW2 </a>
-The app: <a href> https://youtu.be/1oGFquRtxI0?si=ZzrgWg_rYr8qZ-Ro </a>
+* The projects overview: <a href> https://youtu.be/Ux-jJ-vBrBw?si=EVF7qcjBMOr-pq5f </a>
+* The app's design: <a href> https://youtu.be/Ux-jJ-vBrBw?si=Xt5_LekjBx5_BSm2 </a>
+* The code: <a href> https://youtu.be/Q-nhc6-VVYA?si=bQvbWeRFrm82ZIW2 </a>
+* The app: <a href> https://youtu.be/1oGFquRtxI0?si=ZzrgWg_rYr8qZ-Ro </a>
