@@ -42,3 +42,10 @@ Learning from past mistakes is an important part of growth in any field, inc
 Also, as you mentioned to have a more complex design idea, it's important to consider the overall user experience (UX) and user interface (UI) of your app. Placement of buttons, colors, text and features affect how users use and perceive your app. Continuously honing your design skills and incorporating user feedback can lead to an improved and more engaging app.
 
 All in all, your journey in Paw Palace is one of growing and learning when implementing button actions with intents and the startActivity(intenc) method. This is a step towards creating a more functional, user-friendly and aesthetic application. Continue to explore new concepts, experiment and hone your skills to improve your application development skills
+
+
+# My youtube videos for Assignment 2 on (Youtube) :
+The projects overview: <a href> https://youtu.be/Ux-jJ-vBrBw?si=EVF7qcjBMOr-pq5f </a>
+The app's design: <a href> https://youtu.be/Ux-jJ-vBrBw?si=Xt5_LekjBx5_BSm2 </a>
+The code: <a href> https://youtu.be/Q-nhc6-VVYA?si=bQvbWeRFrm82ZIW2 </a>
+The app: <a href> https://youtu.be/1oGFquRtxI0?si=ZzrgWg_rYr8qZ-Ro </a>
