@@ -84,3 +84,10 @@ After finishing the design and coding process of the app, I then had to push the
 <img width= "221" alt="welsh-corgi-cute-dog-vector-42473280"
 src =https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/277ebd6e-9a29-4fe1-b3ce-b4096d8cef3d >
 
+<img width="300" alt="sleep" src=https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/32953bab-3357-4140-afaf-5e257a02b9ab>
+
+<img width="300" alt="bath" srs=https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/84cfda0b-5e21-4128-a479-6edfa0791b76 >
+
+<img width="300" alt="playtime" src="https://github.com/ST10462553/IMAD5112_A2_Paw_Palace/assets/167323821/087d15cf-a9d3-416f-8a6f-f6dc4b3955b3">
+
+
