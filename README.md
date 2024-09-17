@@ -16,6 +16,9 @@ Hello, my name is Siyolise and this my second README file on Github. This one is
 12.  Images used on the app
 13.  Conclusion 
 
+
+##Final Result:
+• 94% 🥳
 ## Welcome to my second repository, named Paw_Palace. This project serves different objectives from the previous project (Historia- History app).Welcome to Project 2, your one-stop shop for utilizing Android Studio and Kotlin to create your own Tamagotchi application! This project is your step-by-step manual for learning app development while creating a cherished virtual pet experience. It was created with novices in mind.Start your adventure by mastering the foundations of Android Studio, the potent toolkit for creating Android apps. As you use code to bring your Tamagotchi to life, explore the expressive and simple Kotlin language.You'll learn the fundamentals of developing mobile apps while creating something enjoyable and nostalgic with concise explanations and practical exercises. Project 2 gives you the skills and information you need to make your own Tamagotchi app, regardless of your level of experience with programming.Get ready to unleash your creativity and watch your virtual pet thrive!
 
 ### Objective(s):
